@@ -1,0 +1,12 @@
+
+# Compiled executables
+/server
+/stats
+/connect_test
+/proxy_test
+
+# SQLite database
+/logs.db
+/logs.db-journal
+/logs.db-wal
+/logs.db-shm
